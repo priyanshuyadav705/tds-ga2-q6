@@ -9,13 +9,13 @@ Publish a portfolio page using GitHub Pages with a shielded email address.
     -   Created `index.html` with the required content.
     -   Inserted the email address wrapped in the special comment tag:
         ```html
-        <!--email_off-->23f3003225@ds.study.iitm.ac.in<!--/email_off-->
+        <!--email_off-->23f1000018@ds.study.iitm.ac.in<!--/email_off-->
         ```
 
 2.  **Repository Setup**:
     -   Created a `docs/` directory and moved `index.html` into it (optional, but good for cleanliness).
     -   Initialized a new Git repository in `ga2/q4`.
-    -   Added the remote: `https://github.com/aloktripathi1/tds-assignment-q14`.
+    -   Added the remote: `https://github.com/aloktripathi1/tds-assignment-q14` 
 
 3.  **Deployment**:
     -   Committed the `index.html` file.
