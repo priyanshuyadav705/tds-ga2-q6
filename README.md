@@ -12,7 +12,7 @@ Publish a portfolio page using GitHub Pages with a shielded email address.
         <!--email_off-->23f1000018@ds.study.iitm.ac.in<!--/email_off-->
         ```
 
-2.  **Repository Setup**:
+2.  **Repository Setup** :
     -   Created a `docs/` directory and moved `index.html` into it (optional, but good for cleanliness).
     -   Initialized a new Git repository in `ga2/q4`.
     -   Added the remote: `https://github.com/aloktripathi1/tds-assignment-q14` 
